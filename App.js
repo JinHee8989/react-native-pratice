@@ -52,6 +52,7 @@ class App extends Component{
       // sampleNum: 100
     
   }
+  
   render(){
     return(
       <View style={styles.background}>
